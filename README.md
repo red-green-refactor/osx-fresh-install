@@ -23,7 +23,7 @@ diskutil cs delete UUID
 ```
 
 below is a screenshot to show which line is the UUID
-![alt text](https://discussions.apple.com/servlet/JiveServlet/showImage/2-22228178-262516/RemoveEncryptedVolume.png "UUID"=250x)
+![alt text](https://discussions.apple.com/servlet/JiveServlet/showImage/2-22228178-262516/RemoveEncryptedVolume.png =250x "UUID")
 
 After the disk is erased, close terminal.
 
