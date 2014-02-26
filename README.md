@@ -22,6 +22,9 @@ With this command entered, you will see a hierarchal tree of the encrypted volum
 diskutil cs delete UUID
 ```
 
+below is a screenshot to show which line is the UUID
+![alt text](https://discussions.apple.com/servlet/JiveServlet/showImage/2-22228178-262516/RemoveEncryptedVolume.png "UUID")
+
 After the disk is erased, close terminal.
 
 Select Reinstall OS X, click continue and follow the instructions.
