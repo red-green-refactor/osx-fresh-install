@@ -202,6 +202,9 @@ rails -v
 If terminal outputs ‘Rails 3.2.17’ you are all setup.
 
 ##Party time
+
+Now it’s time to pat yourself on the back as you have successfully:
+
 1. Reinstalled your OS (and Mavericks)
 2. Installed a whole bunch of applications
 3. Installed xCode and developer tools
