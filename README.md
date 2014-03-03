@@ -190,7 +190,7 @@ You can install rails with the following command ‘gem install rails --version 
 In the example below I am installing rails 3 as it is what I need for the project I am setting up. Open terminal and type the following command to install rails:
 
 ```
-gem install rails --version “=3.2.17”
+gem install rails --version "=3.2.17"
 ```
 
 After installation type the following command to check your rails version:
