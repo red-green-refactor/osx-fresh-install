@@ -98,7 +98,7 @@ sudo xcodebuild -license
 To install homebrew open the terminal and type the following command:
 
 ```
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 As listed in the output you should run the following command before installing anything via homebrew and follow the onscreen instructions:
